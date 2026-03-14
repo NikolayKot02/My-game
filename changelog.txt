@@ -1,2 +1,5 @@
 version 1.0.0:
  - in alpha
+ - added 2 languages(russian, english)
+ - update information
+ - selection of items
