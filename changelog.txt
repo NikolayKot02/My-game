@@ -1,3 +1,4 @@
 version 1.0.0:
  - in alpha
  - <link="https://www.youtube.com/@nikolaykot2021">тест</link>
+ - тест
