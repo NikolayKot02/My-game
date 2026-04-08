@@ -2,6 +2,7 @@ data=08.04.2026
 changelog= version 1.0.1:
  - minifix
  - translation corrected
+ - <link="https://github.com/NikolayKot02/My-game">Hi</link>
 version 1.0.0:
  - in alpha
  - added 2 languages (russian, english)
